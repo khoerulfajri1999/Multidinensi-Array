@@ -15,7 +15,6 @@ function multidimensi_array() {
     }
 
     arr.push(row);
-    arr.push("\n");
   }
 
   return arr;
